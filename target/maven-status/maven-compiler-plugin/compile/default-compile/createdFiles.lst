@@ -1,0 +1,6 @@
+com\att\springrestxml\controller\AppController.class
+com\att\springrestxml\SpringrestxmlApplication.class
+com\att\springrestxml\service\Convert.class
+com\att\springrestxml\service\EmployeeService.class
+com\att\springrestxml\copy\SpringrestxmlApplication.class
+com\att\springrestxml\model\Employee.class

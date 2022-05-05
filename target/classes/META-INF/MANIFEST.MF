@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springrestxml
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nk377s
+Implementation-Vendor-Id: com.att
+Build-Jdk: 1.8.0_301
+Implementation-URL: https://spring.io/projects/spring-boot/springrestx
+ ml
+Created-By: Maven Integration for Eclipse
+Main-Class: com.att.springrestxml.SpringrestxmlApplication
+
